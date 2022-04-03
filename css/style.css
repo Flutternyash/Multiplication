@@ -1,0 +1,12 @@
+
+table {
+  width: 100%;
+  padding: 1% 25%;
+}
+
+td, th {
+}
+
+th {
+  color: #ff8800;
+}
