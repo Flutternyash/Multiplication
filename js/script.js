@@ -1,14 +1,3 @@
-// let oneRow = "";
-// function multiply() {
-//   for (let i = 1; i <= 9; i++) {
-//     for (let j = 1; j <= 9; j++) {
-//       oneRow  += (j*i) + " ";
-//     }
-//     document.write(oneRow);
-//     oneRow = "";
-//   }
-// }
-// multiply();
 
 // document.write('</tr>');
 // for (let i = 1; i <= 9; i++) {
@@ -32,3 +21,4 @@ for (let i = 1; i <= 9; i++) {
   table.appendChild(row);
 }
 document.body.appendChild(table);
+
